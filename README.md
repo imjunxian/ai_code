@@ -8,4 +8,4 @@ Tutorial from ([JavaScript Mastery](https://github.com/adrianhajdin))
 
 ### Links
 
-- Live Site URL: [ai-code](https://ai-code.vercel.app/)
+- Live Site URL: [AI-Code](https://ai-code.vercel.app/)
